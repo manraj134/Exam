@@ -1,1 +1,2 @@
 # Exam
+print("hello")
